@@ -1,0 +1,10 @@
+SDK key   W81pfxmStakNxX4lf9bciQiE4D18v6sRgZTq
+SDK scret y1gqWgbYJVZRZF3jnUDMP3Z5Awc57oMAM13Z
+
+API Key    srdJF116QvWBGGpb1uRqWQ
+API Secret jotd85fiHb4z0DDQGrtkBrdIYlfYxic3fSBk
+
+
+secret token? WSyRxDT2Qm2aMyPj3BnX7Q
+
+Verification Token ? 9LHKMtCHR-Wpiudckz_K4A
